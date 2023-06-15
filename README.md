@@ -11,7 +11,7 @@ This folder includes the source codes of the paper submitted to SDEE: Kuran, F.,
 - Get required dependencies
 - Download gb_gmm in your main working directory
 - Unzip the "gb_gmm.zip" file in your main working directory
-- Arrange your inputs: "file_one.xlsx" for 3.5≤Mw≤5.4 and "file_two.xlsx" for 5.5≤Mw≤7.6
+- Arrange your input files: "file_one.xlsx" for 3.5≤Mw≤5.4 and "file_two.xlsx" for 5.5≤Mw≤7.6
 
 # Required dependencies (PYTHON packages)
 - scikit-learn
