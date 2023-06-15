@@ -1,4 +1,7 @@
 # GB_GMM
+
+# Cumulative absolute velocity (CAV) prediction model based on Gradient Boosting algorithm
+
 Gradient Boosting algorithm is implemented to predict the geomean Cumulative Absolute Velocity (CAV) of two horizontal components. A Turkiye based regional ground motion model is obtained using The New Turkish Strong Motion Database (N-TSMD).
 
 This is the source codes of the paper: Kuran, F., Tanircan, G., Pashaei, E. (2023), Cumulative absolute velocity predicition using machine learning algorithms: Performance analysis and comparison.
